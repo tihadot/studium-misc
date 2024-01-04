@@ -12,7 +12,7 @@ Welcome to the Studium Miscellanea repository, a collection of various academic 
 
 ## Contributing
 
-Given the personal and academic nature of this repository, it is not open for contributions. However, if you have questions or wish to discuss any of the topics further, feel free to reach out.
+Given the personal nature of this repository, it is not open for contributions. However, if you have questions or wish to discuss any of the topics further, feel free to reach out.
 
 ## Disclaimer
 
